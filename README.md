@@ -1,4 +1,3 @@
-you'll probably find my heart somewhere lost in Nevada
 
 
 <!---
