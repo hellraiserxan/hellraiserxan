@@ -1,4 +1,4 @@
-холодный душ, холодные кровать, холодная еда, холодная ванна<br>
+холодный душ, холодная кровать, холодная еда, холодная ванна<br>
 только делают сердце холодней
 <!---
 hellraiserxan/hellraiserxan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
