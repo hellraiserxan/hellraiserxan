@@ -6,7 +6,7 @@ Yeah, I am here right now but I fear tomorrow
 
 <strong>If I don not prevail, I know, I gave it my all</strong>
 
-<img src = "https://i.ibb.co/DQ0yVyS/forest.jpg">
+<img href = "https://i.ibb.co/DQ0yVyS/forest.jpg">
 <!---
 hellraiserxan/hellraiserxan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
