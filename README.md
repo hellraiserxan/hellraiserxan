@@ -13,7 +13,7 @@ Yeah, I am here right now but I fear tomorrow
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellraiserxan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
