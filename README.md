@@ -6,8 +6,8 @@ Yeah, I am here right now but I fear tomorrow
 
 <strong>If I don not prevail, I know, I gave it my all</strong>
 <div style="display: flex; flex-direction: row; align-items:center;">
-    <img src="https://i.ibb.co/DQ0yVyS/forest.jpg" width="200px">
-    <div>
+    <img src="https://i.ibb.co/DQ0yVyS/forest.jpg" width="500px">
+    <div style = "text-align:center;">
         <i>skjønnhet er langt unna, og jeg kan ikke være der</i>
     </div>
 </div>
