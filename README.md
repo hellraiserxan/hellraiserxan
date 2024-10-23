@@ -2,6 +2,7 @@ I am treking and there is loud booms<br>
 Thunder, lightning, striking all around<br>
 I am scared I am so impaired<br>
 Weight is tremendous tornadoes in a frenzy<br>
+Yeah, I am here right now but I fear tomorrow
 
 <strong>If I don not prevail, I know, I gave it my all</strong>
 <!---
