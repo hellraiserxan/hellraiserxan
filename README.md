@@ -8,12 +8,12 @@ Yeah, I am here right now but I fear tomorrow
 <div>
 <img src="https://i.ibb.co/DQ0yVyS/forest.jpg" width="500px" alt="Forest Image">
 </div>
-<div style="text-align: center; margin-top: 20px; margin-bottom: 500px">
+<div style="text-align: center; margin-top: 20px;">
 <i>skjønnhet er langt unna, og jeg kan ikke være der</i>
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellraiserxan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellraiserxan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
