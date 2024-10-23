@@ -1,10 +1,6 @@
-Улыбка на улице, где бы я ни был<br>
-Ведь эти дворы нас учили мечтать
-
-Та мечта, что я берегу—<br>
-Бежать с сыновьями по берегу<br>
-Тихой водою я смою всю боль мою<br>
-
+Scars up on my wrist I gotta shake it down the sand<br>
+Never fucking smiling cause I am ready for the end<br>
+And my memories dead
 <!---
 hellraiserxan/hellraiserxan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
