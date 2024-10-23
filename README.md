@@ -5,7 +5,7 @@ Weight is tremendous tornadoes in a frenzy<br>
 Yeah, I am here right now but I fear tomorrow
 
 <strong>If I don not prevail, I know, I gave it my all</strong>
-<div display = "flex">
+<div display = "flex" flex-direction = "row">
 <img src = "https://i.ibb.co/DQ0yVyS/forest.jpg" width = 500px>
 <div text-align = "center"><i>skjønnhet er langt unna, og jeg kan ikke være der</i><div>
 </div><!---
