@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 auto;">
-    <img src="https://sun9-27.userapi.com/impg/zoOLrk461E2k8kTbsmfyyOgvMN8oALo_Iz1V5A/V8q8WWkjN64.jpg?size=507x518&quality=96&sign=92a465ac5e06d73cec10292fb4822998&type=album" alt="Фото" width="300" height="800" />
+    <img src="https://sun9-27.userapi.com/impg/zoOLrk461E2k8kTbsmfyyOgvMN8oALo_Iz1V5A/V8q8WWkjN64.jpg?size=507x518&quality=96&sign=92a465ac5e06d73cec10292fb4822998&type=album" alt="Фото"  height="800" />
   </div>
   <div style="margin-left: 20px;">
     <h2>Заголовок</h2>
