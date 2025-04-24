@@ -1,10 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://sun9-52.userapi.com/impg/Mo3qCaPB6yy9V3rbZW0P7ZbxhuN2Ap2MfiGVqw/nwcJmpEFMPM.jpg?size=736x715&quality=95&sign=f7ab8bc952f6dbc895be99644555fa85&type=album" alt="Фото" width="150" />
-    </td>
-    <td style="padding-left: 20px; vertical-align: top;">
-      <p>Ты очень красива, могу сказать на кого похожа</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 auto;">
+    <img src="https://sun9-27.userapi.com/impg/zoOLrk461E2k8kTbsmfyyOgvMN8oALo_Iz1V5A/V8q8WWkjN64.jpg?size=507x518&quality=96&sign=92a465ac5e06d73cec10292fb4822998&type=album" alt="Фото" width="300" height="800" />
+  </div>
+  <div style="margin-left: 20px;">
+    <h2>Заголовок</h2>
+    <p>du er veldig vakker jeg kan fortelle hvem du ser på</p>
+  </div>
+</div>
